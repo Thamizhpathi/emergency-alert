@@ -1,0 +1,17 @@
+.map-container {
+display: flex;
+justify-content:center ;
+align-items:center ;
+  background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+  border-radius: 16px;
+  height: 350px;
+  padding: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+.leaflet-container {
+  border-radius: 12px;
+  height: 300px;
+  width: 100%;
+}
