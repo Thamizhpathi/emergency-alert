@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "../styles/NetworkStatus.css"; 
+import "../Styles/network.style.css"
 
 const NetworkStatus = () => {
   const [connectionType, setConnectionType] = useState(
